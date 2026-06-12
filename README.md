@@ -162,12 +162,13 @@ I'm actively seeking a **DevOps Engineer / Cloud Infrastructure** role (Full-tim
 
 ### ⚡ Activity & Consistency
 
-<img src="https://streak-stats.demolab.com?user=anchit-io&theme=dark&hide_border=true&fire=0E75B6&ring=0E75B6&background=0D1117" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api?username=anchit-io&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&icon_color=0E75B6&text_color=ffffff&title_color=0E75B6" width="49%" />
+<img src="https://streak-stats.demolab.com?user=anchit-io&theme=dark&hide_border=true" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=anchit-io&show_icons=true&theme=dark&hide_border=true" width="49%" />
 
 <br>
 
-[![Anchit's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anchit-io&custom_title=Anchit's%20Contribution%20Graph&theme=github-dark&hide_border=true&area=true&bg_color=0d1117&color=0E75B6&line=0E75B6&point=ffffff)](https://github.com/anchit-io)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anchit-io&theme=github-dark&hide_border=true)
 
 </div>
 
