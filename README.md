@@ -1,72 +1,103 @@
-<h1 align="center">Hi 👋, I'm Anchit Mishra</h1>
-<h3 align="center">Experienced DevOps Engineer from India 🇮🇳</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anchit-io&label=Profile%20views&color=0e75b6&style=flat" alt="anchit-io" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-brightgreen" alt="status" />
-</p>
+# 🧑‍💻 Anchit Mishra
 
----
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anchit-mishra)
+[![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ancmishra1998@gmail.com)
 
-### 🚀 About Me
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=550&lines=DevOps+Engineer+%7C+Cloud+%26+Automation;AWS+%7C+Azure+%7C+Docker+%7C+Kubernetes;CI%2FCD+%7C+Infrastructure+as+Code;Always+building%2C+always+learning" alt="Typing SVG" />
 
-- 🔧 DevOps Engineer focused on **Cloud Infrastructure, CI/CD, and Automation**
-- 🌱 Currently upskilling in **Cloud & DevOps technologies**
-- 👯 Looking to collaborate on **cloud-native and infrastructure projects**
-- 💡 Interested in **Kubernetes, Infrastructure as Code, and Observability**
-- 📫 Reach me at **ancmishra1998@gmail.com**
-- ⚡ Fun fact: I enjoy automating things so I (almost) never have to do them twice 😄
+### Experienced DevOps Engineer from India 🇮🇳
+
+🔹 **Hands-on** with AWS, Azure, Docker, Kubernetes & Jenkins  
+🔹 **Skilled** in Linux administration, scripting, and CI/CD automation
+
+</div>
 
 ---
 
-### 🌐 Connect with Me
+## 🚀 About Me
 
-<p align="left">
-<a href="https://linkedin.com/in/anchit-mishra" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anchit-mishra" height="30" width="40" />
-</a>
-<a href="mailto:ancmishra1998@gmail.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="email" height="30" width="40" />
-</a>
-</p>
+I'm a DevOps Engineer passionate about building reliable, scalable, and automated infrastructure. I work across cloud platforms and automation tools to streamline deployments, improve system reliability, and reduce manual overhead.
 
----
+🔹 Building and maintaining CI/CD pipelines with Jenkins  
+🔹 Working with containerization (Docker) and orchestration (Kubernetes)  
+🔹 Managing cloud infrastructure on AWS and Azure  
+🔹 Monitoring systems using Grafana  
+🔹 Currently upskilling further in **Cloud & DevOps technologies**
 
-### 🛠️ Languages & Tools
-
-<p align="left">
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
-<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-<a href="https://grafana.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/></a>
-<a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></a>
-<a href="https://www.jenkins.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/></a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-<a href="https://www.nginx.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/></a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
-</p>
+📫 Looking to collaborate on **cloud-native and infrastructure automation projects** — reach me at **ancmishra1998@gmail.com**
 
 ---
 
-### 📊 GitHub Stats
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anchit-io&show_icons=true&theme=radical" alt="anchit-io stats" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anchit-io&theme=radical" alt="anchit-io streak" />
-</p>
+#### **Cloud & Infrastructure**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+#### **Languages & Scripting**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+#### **Databases & Monitoring**
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+
+#### **Version Control**
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
 
 ---
 
-<p align="center"><i>Thanks for visiting my profile! Feel free to connect or drop a message 🚀</i></p>
+## 🤝 Open to Opportunities
+
+I'm actively looking to collaborate on cloud and DevOps projects, and open to roles where I can contribute my infrastructure automation and cloud experience.
+
+**Open to:** Full-time, Contract, and Open-source collaboration.
+
+<div align="center">
+
+[![Let's Connect on LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anchit-mishra)
+[![Email Me](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ancmishra1998@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ Activity & Consistency
+
+<img src="https://streak-stats.demolab.com?user=anchit-io&theme=dark&hide_border=true&fire=0E75B6&ring=0E75B6&background=0D1117" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=anchit-io&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&icon_color=0E75B6&text_color=ffffff&title_color=0E75B6" width="49%" />
+
+<br>
+
+[![Anchit's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anchit-io&custom_title=Anchit's%20Contribution%20Graph&theme=github-dark&hide_border=true&area=true&bg_color=0d1117&color=0E75B6&line=0E75B6&point=ffffff)](https://github.com/anchit-io)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ "Automate everything, deploy with confidence."
+
+![Visitor Count](https://komarev.com/ghpvc/?username=anchit-io&color=0E75B6&style=flat-square&label=Profile+Views)
+
+</div>
