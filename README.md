@@ -141,7 +141,6 @@ Results-driven DevOps and Cloud Engineer with 2+ years of experience in AWS clou
 
 **Bachelor of Arts – Political Science & Economics**  
 Swami Vivekanand Subharti University *(2019 – 2022)*  
-Supplemented with intensive self-training in DevOps, Cloud Engineering, Linux, and containerization through hands-on projects, internships, and 5 industry-recognized Microsoft Azure certifications.
 
 ---
 
