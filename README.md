@@ -25,13 +25,14 @@ Results-driven DevOps and Cloud Engineer with 2+ years of experience in AWS clou
 🔹 Holds multiple **Microsoft Azure certifications** (AZ-104, AZ-500, AI-102)  
 🔹 Seeking a **DevOps Engineer / Cloud Infrastructure** role to drive cloud-native, microservices-based deployment practices
 
-📫 Open to remote & on-site opportunities — reach me at **ancmishra1998@gmail.com**
+📍 India | 📧 ancmishra1998@gmail.com | 📞 +91 89170-47396
+🔹 Open to DevOps Engineer / Cloud Infrastructure opportunities
 
 ---
 
 ## 💼 Work Experience
 
-#### **DevOps Engineer Intern** — Hypertech Global Pvt. Ltd. *(Nov 2025 – Mar 2026)*
+#### **DevOps Engineer Intern** — Hypertech Global Pvt. Ltd. *(Nov 2025 – Jul 2026)*
 - Built and maintained CI/CD pipelines using Jenkins with GitHub Webhooks, reducing manual deployment effort by **40%** and enabling zero-downtime deployments.
 - Containerized 5+ cloud-native applications using Docker and deployed on AWS EC2, reducing environment-related bugs by **30%**.
 - Architected a two-tier microservices application on AWS using EC2 and RDS, improving reliability and scalability.
