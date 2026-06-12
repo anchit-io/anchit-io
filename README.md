@@ -167,6 +167,12 @@ I'm actively seeking a **DevOps Engineer / Cloud Infrastructure** role (Full-tim
 
 <br>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anchit-io/anchit-io/snake-output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anchit-io/anchit-io/snake-output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/anchit-io/anchit-io/snake-output/github-contribution-grid-snake.svg">
+</picture>
+
 [![Anchit's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anchit-io&custom_title=Anchit's%20Contribution%20Graph&theme=github-dark&hide_border=true&area=true&bg_color=0d1117&color=0E75B6&line=0E75B6&point=ffffff)](https://github.com/anchit-io)
 
 </div>
