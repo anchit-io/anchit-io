@@ -162,10 +162,6 @@ I'm actively open to **DevOps Engineer / Cloud Infrastructure** opportunities �
 
 <div align="center">
 
-### 🏆 Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=anchit-io&theme=darkhub&no-frame=true&row=1&column=7" />
-
 ### ⚡ Activity & Consistency
 
 <img src="https://streak-stats.demolab.com?user=anchit-io&theme=dark&hide_border=true" width="49%" />
