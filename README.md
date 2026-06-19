@@ -26,8 +26,6 @@ Results-driven DevOps and Cloud Engineer with 2+ years of experience in AWS clou
 
 ## 🔭 Currently
 
-- 🛠️ Building a terminal-themed personal portfolio for GitHub Pages
-- 🎮 Shipping a fun side project — a two-player Pong game
 - 🌱 Sharpening Kubernetes & IaC skills, one repo at a time
 - 💬 Always happy to talk AWS, CI/CD, or DevOps career paths — feel free to reach out!
 
