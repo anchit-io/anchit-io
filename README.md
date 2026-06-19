@@ -4,35 +4,44 @@
 
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anchit-mishra)
 [![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ancmishra1998@gmail.com)
+[![GitHub](https://img.shields.io/badge/💻_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anchit-io)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=550&lines=DevOps+Engineer+%7C+Cloud+Infrastructure;AWS+%7C+Azure+%7C+Docker+%7C+Kubernetes;CI%2FCD+%7C+Terraform+%7C+Linux;2%2B+Years+in+Cloud+Operations+%26+DevOps" alt="Typing SVG" />
 
 ### DevOps Engineer | Cloud Infrastructure — Lucknow, India 🇮🇳
 
-🔹 **2+ Years** of hands-on experience in AWS Cloud Operations & DevOps  
-🔹 **Hands-on** with Docker, Kubernetes, Terraform, Jenkins & CI/CD pipelines
+🔹 **2+ years** of hands-on experience in AWS Cloud Operations & DevOps
+🔹 Hands-on with **Docker, Kubernetes, Terraform, Jenkins & CI/CD pipelines**
+🔹 **5x Microsoft Azure certified** (AZ-104, AZ-500, AI-102, AZ-900, SC-900)
 
 </div>
 
 ---
 
- ## 🚀 About Me
+## 🚀 About Me
 
 Results-driven DevOps and Cloud Engineer with 2+ years of experience in AWS cloud operations, CI/CD pipeline development, Linux administration, container orchestration, and infrastructure automation.
 
-🔹 Proficient in **Docker, Kubernetes, Terraform, Jenkins**, and core AWS services (EC2, S3, RDS, IAM, VPC, CloudWatch, Lambda)  
-🔹 Proven track record of reducing deployment time and managing production incidents with **98%+ SLA compliance**  
-🔹 Holds multiple **Microsoft Azure certifications** (AZ-104, AZ-500, AI-102)  
-🔹 Seeking a **DevOps Engineer / Cloud Infrastructure** role to drive cloud-native, microservices-based deployment practices
+🔹 Proficient in **Docker, Kubernetes, Terraform, Jenkins**, and core AWS services (EC2, S3, RDS, IAM, VPC, CloudWatch, Lambda)
+🔹 Proven track record of reducing deployment time and managing production incidents with **98%+ SLA compliance**
+🔹 Currently seeking a **DevOps Engineer / Cloud Infrastructure** role to drive cloud-native, microservices-based deployment practices
 
-📍 India | 📧 ancmishra1998@gmail.com | 📞 +91 89170-47396
-🔹 Open to DevOps Engineer / Cloud Infrastructure opportunities
+📍 Lucknow, India &nbsp;|&nbsp; 📧 ancmishra1998@gmail.com &nbsp;|&nbsp; 📞 +91 89170-47396
+
+---
+
+## 🔭 Currently
+
+- 🛠️ Building a terminal-themed personal portfolio for GitHub Pages
+- 🎮 Shipping a fun side project — a two-player Pong game
+- 🌱 Sharpening Kubernetes & IaC skills, one repo at a time
+- 💬 Always happy to talk AWS, CI/CD, or DevOps career paths — feel free to reach out!
 
 ---
 
 ## 💼 Work Experience
 
-#### **DevOps Engineer Intern** — Hypertech Global Pvt. Ltd. *(Nov 2025 – Jul 2026)*
+#### **DevOps Engineer Intern** — Hypertech Global Pvt. Ltd. *(Nov 2025 – Present)*
 - Built and maintained CI/CD pipelines using Jenkins with GitHub Webhooks, reducing manual deployment effort by **40%** and enabling zero-downtime deployments.
 - Containerized 5+ cloud-native applications using Docker and deployed on AWS EC2, reducing environment-related bugs by **30%**.
 - Architected a two-tier microservices application on AWS using EC2 and RDS, improving reliability and scalability.
@@ -63,6 +72,7 @@ Results-driven DevOps and Cloud Engineer with 2+ years of experience in AWS clou
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
@@ -83,10 +93,10 @@ Results-driven DevOps and Cloud Engineer with 2+ years of experience in AWS clou
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 #### **Version Control & ITSM**
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![ServiceNow](https://img.shields.io/badge/ServiceNow-00C7D4?style=for-the-badge&logo=servicenow&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-00C7D4?style=flat-square&logo=servicenow&logoColor=white)
 
 </div>
 
@@ -94,31 +104,30 @@ Results-driven DevOps and Cloud Engineer with 2+ years of experience in AWS clou
 
 ## 📌 Featured Projects
 
-#### **Reddit Clone – Kubernetes Microservices Deployment**
-![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Helm](https://img.shields.io/badge/helm-%230F1689.svg?style=for-the-badge&logo=helm&logoColor=white)
-![Prometheus](https://img.shields.io/badge/prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white)
+#### 🔗 [Reddit Clone – Kubernetes Microservices Deployment](https://github.com/anchit-io)
+![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326CE5.svg?style=flat-square&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/helm-%230F1689.svg?style=flat-square&logo=helm&logoColor=white)
+![Prometheus](https://img.shields.io/badge/prometheus-%23E6522C.svg?style=flat-square&logo=prometheus&logoColor=white)
+
 - Containerized and deployed a Reddit Clone microservices application on Kubernetes (Minikube) with zero-downtime rolling updates.
 - Authored Deployment, Service, and ConfigMap manifests (YAML) managing pod lifecycle and auto-scaling (HPA), reducing config errors by **60%**.
 - Configured Ingress controller for external traffic routing and hostname-based load balancing.
 - Integrated Prometheus for cluster metrics collection and proactive alerting.
 
----
+#### 🔗 [Two-Tier Flask Application – Containerized Deployment](https://github.com/anchit-io)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)
 
-#### **Two-Tier Flask Application – Containerized Deployment**
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 - Designed and deployed a two-tier Flask (Python) microservices application using Docker, separating application and data layers.
 - Configured Docker networking, volume mounts, and environment variables for persistent storage and secure inter-container communication.
 - Automated build, test, and deployment pipeline using Shell scripts and Jenkins, reducing manual setup time by **60%**.
 
----
+#### 🔗 [Node.js To-Do App – Docker Image Optimization](https://github.com/anchit-io)
+![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=flat-square&logo=nodedotjs&logoColor=white)
 
-#### **Node.js To-Do App – Docker Image Optimization**
-![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 - Authored a production-ready, multi-stage Dockerfile for a Node.js app, reducing image size by **40%**.
 - Optimized Docker layer caching, cutting image build time by **35%** while enforcing security best practices (no root user, minimal base image).
 - Published the container image to Docker Hub and documented the CI/CD workflow for reusability.
@@ -127,30 +136,32 @@ Results-driven DevOps and Cloud Engineer with 2+ years of experience in AWS clou
 
 ## 📜 Certifications
 
-- **AZ-104** – Microsoft Azure Administrator Associate
-- **AZ-500** – Microsoft Azure Security Engineer Associate
-- **AI-102** – Microsoft Azure AI Engineer Associate
-- **AZ-900** – Microsoft Azure Fundamentals
-- **SC-900** – Microsoft Security, Compliance and Identity Fundamentals
-- **NIELIT 'O' Level** – Computer Applications (Ministry of Electronics & IT, Govt. of India)
-- **NIELIT CCC** – Course on Computer Concepts
+| Certification | Issuer |
+|---|---|
+| AZ-104 – Azure Administrator Associate | Microsoft |
+| AZ-500 – Azure Security Engineer Associate | Microsoft |
+| AI-102 – Azure AI Engineer Associate | Microsoft |
+| AZ-900 – Azure Fundamentals | Microsoft |
+| SC-900 – Security, Compliance & Identity Fundamentals | Microsoft |
+| NIELIT 'O' Level – Computer Applications | Govt. of India |
+| NIELIT CCC – Course on Computer Concepts | Govt. of India |
 
 ---
 
 ## 🎓 Education
 
-**Bachelor of Arts – Political Science & Economics**  
-Swami Vivekanand Subharti University *(2019 – 2022)*  
+**Bachelor of Arts – Political Science & Economics**
+Swami Vivekanand Subharti University *(2019 – 2022)*
 
 ---
 
-## 🤝 Open to Opportunities
+## 🤝 Let's Connect
 
-I'm actively seeking a **DevOps Engineer / Cloud Infrastructure** role (Full-time, Remote or On-site) where I can drive cloud-native deployment practices and operational excellence.
+I'm actively open to **DevOps Engineer / Cloud Infrastructure** opportunities — full-time, remote or on-site. If you're hiring or just want to talk cloud and automation, reach out!
 
 <div align="center">
 
-[![Let's Connect on LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anchit-mishra)
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anchit-mishra)
 [![Email Me](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ancmishra1998@gmail.com)
 
 </div>
@@ -159,11 +170,14 @@ I'm actively seeking a **DevOps Engineer / Cloud Infrastructure** role (Full-tim
 
 <div align="center">
 
+### 🏆 Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=anchit-io&theme=darkhub&no-frame=true&row=1&column=7" />
+
 ### ⚡ Activity & Consistency
 
 <img src="https://streak-stats.demolab.com?user=anchit-io&theme=dark&hide_border=true" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api?username=anchit-io&show_icons=true&theme=dark&hide_border=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=anchit-io&show_icons=true&theme=dark&hide_border=true&count_private=true" width="49%" />
 
 <br>
 
