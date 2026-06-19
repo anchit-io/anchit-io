@@ -104,7 +104,7 @@ Results-driven DevOps and Cloud Engineer with 2+ years of experience in AWS clou
 
 ## 📌 Featured Projects
 
-#### 🔗 [Reddit Clone – Kubernetes Microservices Deployment](https://github.com/anchit-io)
+####  [Reddit Clone – Kubernetes Microservices Deployment](https://github.com/anchit-io)
 ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326CE5.svg?style=flat-square&logo=kubernetes&logoColor=white)
 ![Helm](https://img.shields.io/badge/helm-%230F1689.svg?style=flat-square&logo=helm&logoColor=white)
@@ -115,7 +115,7 @@ Results-driven DevOps and Cloud Engineer with 2+ years of experience in AWS clou
 - Configured Ingress controller for external traffic routing and hostname-based load balancing.
 - Integrated Prometheus for cluster metrics collection and proactive alerting.
 
-#### 🔗 [Two-Tier Flask Application – Containerized Deployment](https://github.com/anchit-io)
+####  [Two-Tier Flask Application – Containerized Deployment](https://github.com/anchit-io)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)
@@ -124,7 +124,7 @@ Results-driven DevOps and Cloud Engineer with 2+ years of experience in AWS clou
 - Configured Docker networking, volume mounts, and environment variables for persistent storage and secure inter-container communication.
 - Automated build, test, and deployment pipeline using Shell scripts and Jenkins, reducing manual setup time by **60%**.
 
-#### 🔗 [Node.js To-Do App – Docker Image Optimization](https://github.com/anchit-io)
+####  [Node.js To-Do App – Docker Image Optimization](https://github.com/anchit-io)
 ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white)
 ![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=flat-square&logo=nodedotjs&logoColor=white)
 
