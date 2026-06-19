@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧑‍💻 Anchit Mishra
+ 🧑‍💻 Anchit Mishra
 
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anchit-mishra)
 [![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ancmishra1998@gmail.com)
@@ -16,7 +16,7 @@
 
 ---
 
-## 🚀 About Me
+ 🚀 About Me
 
 Results-driven DevOps and Cloud Engineer with 2+ years of experience in AWS cloud operations, CI/CD pipeline development, Linux administration, container orchestration, and infrastructure automation.
 
