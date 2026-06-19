@@ -8,7 +8,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=550&lines=DevOps+Engineer+%7C+Cloud+Infrastructure;AWS+%7C+Azure+%7C+Docker+%7C+Kubernetes;CI%2FCD+%7C+Terraform+%7C+Linux;2%2B+Years+in+Cloud+Operations+%26+DevOps" alt="Typing SVG" />
 
-</div>
+<div align="center">
 
 ---
 
