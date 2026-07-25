@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anchit-mishra)
 [![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ancmishra1998@gmail.com)
-[![GitHub](https://img.shields.io/badge/💻_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anchit-io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0a0d13?style=for-the-badge&logo=googlechrome&logoColor=white)](https://anchit-io.github.io/Portfolio/)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=550&lines=DevOps+Engineer+%7C+Cloud+Infrastructure;AWS+%7C+Azure+%7C+Docker+%7C+Kubernetes;CI%2FCD+%7C+Terraform+%7C+Linux;2%2B+Years+in+Cloud+Operations+%26+DevOps" alt="Typing SVG" />
 
