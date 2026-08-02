@@ -139,8 +139,4 @@ Swami Vivekanand Subharti University *(2019 - 2022)*
 
 I'm open to **DevOps Engineer** and **Cloud Infrastructure** opportunities. If you are building reliable, automated cloud platforms or want to discuss cloud and DevOps, feel free to reach out.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anchit-io&show_icons=true&theme=tokyonight&hide_border=true" alt="Anchit's GitHub stats" />
-</p>
-
 <p align="center"><i>⚡ From cloud operations to cloud-native automation. Let's build reliable systems.</i></p>
